@@ -100,7 +100,7 @@
   --scale-3:1.953rem;       /* 31px */
   --scale-4:2.441rem;       /* 39px */
   --scale-5:3.052rem;       /* 49px */
-  
+
   /* Spacing units */
   --spacing-xs:0.5rem;      /* 8px */
   --spacing-s:1rem;         /* 16px */
@@ -237,7 +237,7 @@ a:hover {
   .avatar--rounded {
 	border-radius: 50%;
   }
-  
+
   /* Modifier for slightly rounded corners */
   .avatar--soft {
 	border-radius: 0.5rem;   /* 8px rounded corners */
@@ -246,7 +246,7 @@ a:hover {
 /* Theme System
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Light theme is default above */
-  
+
 /* Dark theme */
 :root.theme-dark {
 	color-scheme:dark;

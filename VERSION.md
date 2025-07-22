@@ -16,7 +16,7 @@
 
 ### v3.4.0 - 3/04/2025
 - Added Matrix
-  
+
 ### v3.3.0 - 03/01/2025
 - Updated Facebook Logo
 - Updated Messenger Logo
@@ -28,7 +28,7 @@
 
 ### v3.1.1 - 1/28/2025
 - Fixed the alt text for Obsidian (`PR #138` / `@timtjtim`)
-  
+
 ### v3.1.0 - 1/20/2025
 - Added alternate YouTube button (`PR #138` / `@Omikorin`)
 - Fixed `index.html` accessibilty issues (`PR #137` / `@rosahaj`)
